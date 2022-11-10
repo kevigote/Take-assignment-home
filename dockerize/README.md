@@ -3,7 +3,7 @@
 
 This is your first task in out assignment. Here you are supposed to build a Dockfile with a Go Webserver within. 
 
-* Create a `Dockerfile`;
+* Create a `Dockerfile`; [Done]
   * Build `golang` executable inside your `Dockerfile`;
   * Let the executable run as you load the image;
 * Build a `Docker` image using your `Dockerfile`;
